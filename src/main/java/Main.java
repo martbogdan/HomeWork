@@ -10,7 +10,6 @@ public class Main {
         numOfSentences(str);
         wordToUpperCase(str);
         sentenceWithYear(str);
-
         }
 
     // This method return a number of words in the string
